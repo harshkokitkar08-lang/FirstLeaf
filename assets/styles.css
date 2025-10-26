@@ -65,6 +65,17 @@
   --danger: #e91e63;
 }
 
+/* Cyber Neon Theme */
+[data-theme="neon"] {
+  --bg: #050510;
+  --panel: #0e0e1a;
+  --text: #e0e0ff;
+  --muted: #7d7d9e;
+  --accent: #00ffff;
+  --accent-2: #ff00ff;
+  --danger: #ff3131;
+}
+
 html,
 body {
   height: 100%;
